@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import cnn from "../assets/certificates/CNN.png";
-import ibm1 from "../assets/certificates/IBM-skillbuild (2).jpg";
-import ibm2 from "../assets/certificates/IBM-skillbuild (3).jpg";
+import ibm1 from "../assets/certificates/ibm_skill2.jpg";
+import ibm2 from "../assets/certificates/ibm_skill3.jpg";
 import ibm3 from "../assets/certificates/IBM_skillbuild.jpg";
 import pr1 from "../assets/certificates/pr1.jpg";
 import pr2 from "../assets/certificates/pr2.jpg";

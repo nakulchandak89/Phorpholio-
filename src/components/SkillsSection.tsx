@@ -27,10 +27,10 @@ const skills = [
   { name: 'Pandas', icon: SiPandas, color: '#150458', proficiency: 88 },
   { name: 'Matplotlib', icon: TbChartBar, color: '#d35400', proficiency: 85 },
   { name: 'Seaborn', icon: TbChartDots, color: '#2c3e50', proficiency: 82 },
+  { name: 'Streamlit App', icon: SiStreamlit, color: '#FF4B4B', proficiency: 88 },
 
   // Frontend & Backend
   { name: 'React', icon: SiReact, color: '#61dafb', proficiency: 90 },
-  { name: 'Streamlit App', icon: SiStreamlit, color: '#FF4B4B', proficiency: 88 },
   { name: 'Node.js', icon: SiNodedotjs, color: '#339933', proficiency: 85 },
   { name: 'JavaScript', icon: SiJavascript, color: '#f7df1e', proficiency: 92 },
   { name: 'TypeScript', icon: SiTypescript, color: '#3178c6', proficiency: 88 },
